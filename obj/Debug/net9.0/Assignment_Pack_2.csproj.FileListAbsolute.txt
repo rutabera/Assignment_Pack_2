@@ -1,0 +1,14 @@
+C:\Users\27813\source\repos\Assignment_Pack_2\Assignment_Pack_2\bin\Debug\net9.0\Assignment_Pack_2.exe
+C:\Users\27813\source\repos\Assignment_Pack_2\Assignment_Pack_2\bin\Debug\net9.0\Assignment_Pack_2.deps.json
+C:\Users\27813\source\repos\Assignment_Pack_2\Assignment_Pack_2\bin\Debug\net9.0\Assignment_Pack_2.runtimeconfig.json
+C:\Users\27813\source\repos\Assignment_Pack_2\Assignment_Pack_2\bin\Debug\net9.0\Assignment_Pack_2.dll
+C:\Users\27813\source\repos\Assignment_Pack_2\Assignment_Pack_2\bin\Debug\net9.0\Assignment_Pack_2.pdb
+C:\Users\27813\source\repos\Assignment_Pack_2\Assignment_Pack_2\obj\Debug\net9.0\Assignment_Pack_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\27813\source\repos\Assignment_Pack_2\Assignment_Pack_2\obj\Debug\net9.0\Assignment_Pack_2.AssemblyInfoInputs.cache
+C:\Users\27813\source\repos\Assignment_Pack_2\Assignment_Pack_2\obj\Debug\net9.0\Assignment_Pack_2.AssemblyInfo.cs
+C:\Users\27813\source\repos\Assignment_Pack_2\Assignment_Pack_2\obj\Debug\net9.0\Assignment_Pack_2.csproj.CoreCompileInputs.cache
+C:\Users\27813\source\repos\Assignment_Pack_2\Assignment_Pack_2\obj\Debug\net9.0\Assignment_Pack_2.dll
+C:\Users\27813\source\repos\Assignment_Pack_2\Assignment_Pack_2\obj\Debug\net9.0\refint\Assignment_Pack_2.dll
+C:\Users\27813\source\repos\Assignment_Pack_2\Assignment_Pack_2\obj\Debug\net9.0\Assignment_Pack_2.pdb
+C:\Users\27813\source\repos\Assignment_Pack_2\Assignment_Pack_2\obj\Debug\net9.0\Assignment_Pack_2.genruntimeconfig.cache
+C:\Users\27813\source\repos\Assignment_Pack_2\Assignment_Pack_2\obj\Debug\net9.0\ref\Assignment_Pack_2.dll
